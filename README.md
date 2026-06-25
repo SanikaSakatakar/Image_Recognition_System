@@ -206,6 +206,7 @@ For specialized AI tasks:
 - Face recognition
 - Object detection
 - Custom trained models (PyTorch, TensorFlow)
+- object detection
 
 Follow the Flask Integration Guide for complete setup.
 
