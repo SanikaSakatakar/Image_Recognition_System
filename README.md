@@ -177,6 +177,7 @@ Tested on:
 - Enable GPU acceleration in browser settings
 - Close other tabs to free memory
 - Use smaller image files (<5MB)
+- Easy To Use
 
 ## Deployment
 
