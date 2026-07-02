@@ -1,8 +1,8 @@
-# VisionAI - Real-Time Image Recognition Platform
+# VisionAI - Real-Time Image Recognition Platform 
 
 A modern image recognition application with **real AI** powered by TensorFlow.js and Google's MobileNet v2 neural network. No backend required - everything runs in your browser!.
 
-## Features
+## Features of project
 
 - **Real AI Classification**: Uses Google MobileNet v2 trained on 1.4M images (1000 categories)
 - **Client-Side Processing**: Images never leave your device - complete privacy
