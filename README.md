@@ -2,7 +2,7 @@
 
 A modern image recognition application with **real AI** powered by TensorFlow.js and Google's MobileNet v2 neural network. No backend required - everything runs in your browser!.
 
-## Features of project
+## Features of the project
 
 - **Real AI Classification**: Uses Google MobileNet v2 trained on 1.4M images (1000 categories)
 - **Client-Side Processing**: Images never leave your device - complete privacy
@@ -25,7 +25,7 @@ VisionAI uses **TensorFlow.js** to run a real convolutional neural network direc
 
 **Categories Include**: Animals, vehicles, food, household objects, nature, electronics, and more!
 
-## Getting Started
+## Getting Started the project
 
 ### No Setup Required!
 
