@@ -14,7 +14,7 @@ A modern image recognition application with **real AI** powered by TensorFlow.js
 - **Statistics Dashboard**: Track total analyses, success rate, and average confidence
 - **Offline Capable**: Works offline after first model download
 
-## How It Works
+## How It Works 
 
 VisionAI uses **TensorFlow.js** to run a real convolutional neural network directly in your browser:
 
@@ -34,7 +34,7 @@ The app works immediately with built-in AI:
 2. Click "Analyze with AI"
 3. Get real predictions instantly
 
-### Model Loading
+### Model loading 
 
 On first use, the app downloads the MobileNet model (~5MB):
 - Takes 2-3 seconds on fast connections
@@ -55,7 +55,7 @@ On first use, the app downloads the MobileNet model (~5MB):
 ✅ Nature scenes
 ✅ Well-lit, clear images
 
-### May Struggle With:
+### May Struggle With the:
 ❌ Abstract art or heavily edited images
 ❌ Very rare or niche objects
 ❌ Blurry or low-resolution images
