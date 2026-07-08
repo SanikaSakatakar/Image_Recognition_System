@@ -135,7 +135,7 @@ Your images are 100% private:
 - **HOW_IT_WORKS.md**: Technical deep dive into the AI architecture
 - **FLASK_INTEGRATION_GUIDE.md**: Complete guide for custom backends
 
-## Browser Support
+## Browser Support technologies
 
 Requires modern browser with:
 - WebGL support (for GPU acceleration)
