@@ -122,7 +122,7 @@ Your images are 100% private:
 - **Neural Network**: 53-layer CNN trained on ImageNet
 - **GPU**: WebGL acceleration (automatic)
 
-## Performance
+## Performance of the project 
 
 - **Model Size**: ~5MB (one-time download)
 - **Inference Time**: 50-200ms per image
