@@ -84,7 +84,7 @@ The app will automatically switch from TensorFlow.js to your Flask backend!
 
 ## Usage
 
-### Basic Workflow
+### Basic Workflows
 
 1. **Upload Images**: Click upload area or drag and drop
 2. **Multiple Selection**: Add as many images as you want
