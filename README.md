@@ -16,7 +16,7 @@ A modern image recognition application with **real AI** powered by TensorFlow.js
 
 ## How It Works 
 
-VisionAI uses **TensorFlow.js** to run a real convolutional neural network directly in your browser:
+VisionAI uses **TensorFlow.js** to run a real convolutional neural network directly in your browser
 
 1. **First Visit**: Downloads ~5MB MobileNet v2 model (cached for future use)
 2. **Upload**: Select images from your device
