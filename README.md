@@ -12,7 +12,7 @@ A modern image recognition application with **real AI** powered by TensorFlow.js
 - **History Management**: View, download, and manage analysis history
 - **Modern UI**: Beautiful dark mode interface with glassmorphism and animations
 - **Statistics Dashboard**: Track total analyses, success rate, and average confidence
-- **Offline Capable**: Works offline after first model downloads
+- **Offline Capable**: Works offline after first model download
 
 ## How It Works 
 
