@@ -29,7 +29,7 @@ VisionAI uses **TensorFlow.js** to run a real convolutional neural network direc
 
 ### No Setup Required!
 
-The app works immediately with built-in AI:
+The app works immediately with built-in AI
 1. Upload any image (JPG, PNG, WEBP)
 2. Click "Analyze with AI"
 3. Get real predictions instantly
