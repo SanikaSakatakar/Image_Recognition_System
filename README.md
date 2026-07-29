@@ -23,7 +23,7 @@ VisionAI uses **TensorFlow.js** to run a real convolutional neural network direc
 3. **Analysis**: Neural network processes images with 53 convolutional layers
 4. **Results**: Get accurate predictions from 1000+ trained categories
 
-**Categories Include**: Animals, vehicles, food, household objects, nature, electronics, and more!
+**Categories Include**: Animals, vehicles, food, household objects, nature, electronics, and more
 
 ## Getting Started the project
 
