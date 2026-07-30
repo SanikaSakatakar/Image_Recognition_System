@@ -14,7 +14,7 @@ A modern image recognition application with **real AI** powered by TensorFlow.js
 - **Statistics Dashboard**: Track total analyses, success rate, and average confidence
 - **Offline Capable**: Works offline after first model downloads
 
-## How It Works 
+## How It Works
 
 VisionAI uses **TensorFlow.js** to run a real convolutional neural network directly in your browser
 
