@@ -35,7 +35,7 @@ The app works immediately with built-in AI
 2. Click "Analyze with AI"
 3. Get real predictions instantly
 
-### Model loading 
+### Model loading
 
 On first use, the app downloads the MobileNet model (~5MB):
 - Takes 2-3 seconds on fast connections
